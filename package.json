@@ -1,0 +1,16 @@
+{
+  "name": "aesthetic-makeover-studio",
+  "version": "1.0.0",
+  "description": "The Aesthetic Makeover Studio - personalized fashion and beauty styling platform",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^5.12.2"
+  },
+  "devDependencies": {
+    "vercel": "^48.0.0"
+  }
+}
